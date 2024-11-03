@@ -1,12 +1,13 @@
 {
   "HasProblem": true,
   "ForceUpdate": true,
-  "Problem": "Update",
-  "Version": "1.1.5",
+  "Problem": "Update Fix Region or more..",
+  "Version": "1.3.5",
   "Stable_Version": {
     "Valid_Version": [
       "1.1.2",
-      "1.1.5"
+      "1.1.5",
+      "1.3.5"
     ],
     "RealTime_AutoUpdate": false
   }
